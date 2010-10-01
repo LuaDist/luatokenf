@@ -1,0 +1,14 @@
+--- This file is part of LuaDist project
+
+name = "luatokenf"
+version = "5.1.4"
+
+desc = "Lua with LHF's token filters."
+author = "Luiz Henrique de Figueiredo (tokenf), Roberto Ierusalimschy, Waldemar Celes, Luiz Henrique de Figueiredo (Lua)"
+license = "MIT/X11"
+url = "http://www.tecgraf.puc-rio.br/~lhf/ftp/lua/"
+maintainer = "Peter Drahoš"
+
+provides = {
+	"lua-5.1.4"
+}
